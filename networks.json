@@ -1,0 +1,8 @@
+{
+  "goerli": {
+    "CrowdFunding": {
+      "address": "0xE6fa0fd74ACB333E9714B245E5149b4DA2bbba11",
+      "startBlock": 8809597
+    }
+  }
+}
