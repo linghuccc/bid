@@ -1,0 +1,5 @@
+这个project是TinTinLand以太坊入门课，第5课的作业。
+
+他是用Graph提供的Hosted Service功能，对goerli测试网上的合约中，bid函数中的BidLog事件进行索引。
+
+goerli测试网合约地址为0xE6fa0fd74ACB333E9714B245E5149b4DA2bbba11。
